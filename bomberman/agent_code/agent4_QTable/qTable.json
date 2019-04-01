@@ -1,0 +1,44 @@
+{
+    "eewwub": {
+        "UP": 7.25,
+        "DOWN": 0,
+        "LEFT": 0,
+        "RIGHT": 0,
+        "BOMB": 0
+    },
+    "ewweub": {
+        "UP": 7.25,
+        "DOWN": 0,
+        "LEFT": 0,
+        "RIGHT": 0,
+        "BOMB": 0
+    },
+    "ceweub": {
+        "UP": 0,
+        "DOWN": 0,
+        "LEFT": 0,
+        "RIGHT": 0,
+        "BOMB": 0
+    },
+    "ceweun": {
+        "UP": 32.25,
+        "DOWN": 0,
+        "LEFT": -12.5,
+        "RIGHT": 0,
+        "BOMB": 0
+    },
+    "ewweun": {
+        "UP": 0,
+        "DOWN": 0,
+        "LEFT": 0,
+        "RIGHT": 0,
+        "BOMB": 0
+    },
+    "eeweun": {
+        "UP": 0,
+        "DOWN": 0,
+        "LEFT": 0,
+        "RIGHT": 0,
+        "BOMB": 0
+    }
+}

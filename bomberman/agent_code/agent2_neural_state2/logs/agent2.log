@@ -1,0 +1,421 @@
+2019-04-01 18:20:36,715 [agent2_wrapper] INFO: Import agent code from "agent_code/agent2/callbacks.py"
+2019-04-01 18:20:41,679 [agent2_wrapper] INFO: Initialize agent code
+2019-04-01 18:20:43,034 [agent2_wrapper] INFO: STARTING ROUND #1
+2019-04-01 18:20:43,145 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:20:43,164 [agent2_wrapper] INFO: Chose action RIGHT after 0.018s of thinking
+2019-04-01 18:20:43,247 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:20:43,251 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:20:43,348 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:20:43,354 [agent2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-04-01 18:20:43,449 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:20:43,458 [agent2_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-04-01 18:20:43,553 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:20:43,559 [agent2_wrapper] INFO: Chose action DOWN after 0.005s of thinking
+2019-04-01 18:20:43,661 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:20:43,664 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:20:43,782 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:20:43,786 [agent2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-04-01 18:20:43,795 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:20:43,795 [agent2_wrapper] INFO: Round #1 finished
+2019-04-01 18:20:47,732 [agent2_wrapper] INFO: STARTING ROUND #2
+2019-04-01 18:20:47,821 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:20:47,825 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:20:47,926 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:20:47,930 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:48,029 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:20:48,034 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:20:48,133 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:20:48,138 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:48,239 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:20:48,242 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:20:48,339 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:20:48,343 [agent2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-04-01 18:20:48,443 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:20:48,452 [agent2_wrapper] INFO: Chose action LEFT after 0.008s of thinking
+2019-04-01 18:20:48,458 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:20:48,458 [agent2_wrapper] INFO: Round #2 finished
+2019-04-01 18:20:50,569 [agent2_wrapper] INFO: STARTING ROUND #3
+2019-04-01 18:20:50,633 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:20:50,637 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:20:50,737 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:20:50,741 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:50,843 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:20:50,846 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:50,946 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:20:50,952 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:20:51,052 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:20:51,056 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:20:51,156 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:20:51,160 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:20:51,260 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:20:51,264 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:20:51,270 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:20:51,271 [agent2_wrapper] INFO: Round #3 finished
+2019-04-01 18:20:53,423 [agent2_wrapper] INFO: STARTING ROUND #4
+2019-04-01 18:20:53,448 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:20:53,452 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:20:53,549 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:20:53,552 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:53,652 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:20:53,656 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:53,757 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:20:53,761 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:53,861 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:20:53,865 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:20:53,965 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:20:53,969 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:20:54,070 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:20:54,074 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:20:54,080 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:20:54,081 [agent2_wrapper] INFO: Round #4 finished
+2019-04-01 18:20:56,598 [agent2_wrapper] INFO: STARTING ROUND #5
+2019-04-01 18:20:56,660 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:20:56,665 [agent2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-04-01 18:20:56,764 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:20:56,768 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:56,869 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:20:56,873 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:20:56,974 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:20:56,977 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:20:57,078 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:20:57,082 [agent2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-04-01 18:20:57,186 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:20:57,189 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:20:57,288 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:20:57,293 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:20:57,298 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:20:57,298 [agent2_wrapper] INFO: Round #5 finished
+2019-04-01 18:20:59,858 [agent2_wrapper] INFO: STARTING ROUND #6
+2019-04-01 18:20:59,898 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:20:59,902 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:00,001 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:00,006 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:00,105 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:00,109 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:00,209 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:00,213 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:00,313 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:00,318 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:00,418 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:00,421 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:00,521 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:00,525 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:00,531 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:00,532 [agent2_wrapper] INFO: Round #6 finished
+2019-04-01 18:21:03,195 [agent2_wrapper] INFO: STARTING ROUND #7
+2019-04-01 18:21:03,230 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:03,234 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:03,335 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:03,338 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:03,439 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:03,443 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:03,561 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:03,565 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:03,665 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:03,669 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:03,769 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:03,773 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:03,874 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:03,877 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:03,885 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:03,885 [agent2_wrapper] INFO: Round #7 finished
+2019-04-01 18:21:06,101 [agent2_wrapper] INFO: STARTING ROUND #8
+2019-04-01 18:21:06,156 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:06,160 [agent2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-04-01 18:21:06,260 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:06,264 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:06,365 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:06,370 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:06,474 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:06,478 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:06,574 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:06,578 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:21:06,678 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:06,682 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:21:06,783 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:06,787 [agent2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-04-01 18:21:06,794 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:06,795 [agent2_wrapper] INFO: Round #8 finished
+2019-04-01 18:21:09,378 [agent2_wrapper] INFO: STARTING ROUND #9
+2019-04-01 18:21:09,492 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:09,496 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:09,597 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:09,600 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:09,701 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:09,705 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:09,806 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:09,810 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:09,910 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:09,914 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:10,015 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:10,018 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:10,119 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:10,123 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:10,131 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:10,132 [agent2_wrapper] INFO: Round #9 finished
+2019-04-01 18:21:12,632 [agent2_wrapper] INFO: STARTING ROUND #10
+2019-04-01 18:21:12,725 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:12,729 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:12,826 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:12,830 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:12,930 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:12,934 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:13,033 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:13,037 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:13,134 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:13,138 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:13,239 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:13,243 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:13,342 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:13,346 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:13,354 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:13,354 [agent2_wrapper] INFO: Round #10 finished
+2019-04-01 18:21:15,969 [agent2_wrapper] INFO: STARTING ROUND #11
+2019-04-01 18:21:16,044 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:16,048 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:21:16,149 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:16,152 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:16,251 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:16,255 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:16,355 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:16,359 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:16,457 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:16,461 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:16,562 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:16,566 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:16,666 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:16,670 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:16,677 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:16,678 [agent2_wrapper] INFO: Round #11 finished
+2019-04-01 18:21:18,492 [agent2_wrapper] INFO: STARTING ROUND #12
+2019-04-01 18:21:18,524 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:18,527 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:18,625 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:18,629 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:18,729 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:18,733 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:18,832 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:18,836 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:18,937 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:18,941 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:19,041 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:19,045 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:19,143 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:19,148 [agent2_wrapper] INFO: Chose action UP after 0.005s of thinking
+2019-04-01 18:21:19,155 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:19,155 [agent2_wrapper] INFO: Round #12 finished
+2019-04-01 18:21:22,185 [agent2_wrapper] INFO: STARTING ROUND #13
+2019-04-01 18:21:22,265 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:22,269 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:22,369 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:22,373 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:22,470 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:22,474 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:22,575 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:22,579 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:22,677 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:22,682 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:22,780 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:22,784 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:22,880 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:22,884 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:22,890 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:22,890 [agent2_wrapper] INFO: Round #13 finished
+2019-04-01 18:21:25,062 [agent2_wrapper] INFO: STARTING ROUND #14
+2019-04-01 18:21:25,079 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:25,083 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:25,183 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:25,187 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:25,287 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:25,292 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:25,389 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:25,393 [agent2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-04-01 18:21:25,492 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:25,496 [agent2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-04-01 18:21:25,597 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:25,601 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:25,700 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:25,704 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:25,710 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:25,710 [agent2_wrapper] INFO: Round #14 finished
+2019-04-01 18:21:27,955 [agent2_wrapper] INFO: STARTING ROUND #15
+2019-04-01 18:21:27,988 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:27,991 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:28,092 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:28,096 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:28,198 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:28,202 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:28,312 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:28,316 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:28,417 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:28,420 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:28,521 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:28,524 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:28,623 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:28,627 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:28,742 [agent2_wrapper] INFO: STARTING STEP 8
+2019-04-01 18:21:28,745 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:28,841 [agent2_wrapper] INFO: STARTING STEP 9
+2019-04-01 18:21:28,845 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:28,947 [agent2_wrapper] INFO: STARTING STEP 10
+2019-04-01 18:21:28,951 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:29,050 [agent2_wrapper] INFO: STARTING STEP 11
+2019-04-01 18:21:29,055 [agent2_wrapper] INFO: Chose action DOWN after 0.004s of thinking
+2019-04-01 18:21:29,150 [agent2_wrapper] INFO: STARTING STEP 12
+2019-04-01 18:21:29,153 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:21:29,255 [agent2_wrapper] INFO: STARTING STEP 13
+2019-04-01 18:21:29,259 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:21:29,266 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:29,266 [agent2_wrapper] INFO: Round #15 finished
+2019-04-01 18:21:31,734 [agent2_wrapper] INFO: STARTING ROUND #16
+2019-04-01 18:21:31,751 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:31,756 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:31,855 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:31,860 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:31,960 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:31,965 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:32,064 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:32,068 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:32,168 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:32,172 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:32,272 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:32,275 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:32,376 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:32,380 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:32,387 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:32,388 [agent2_wrapper] INFO: Round #16 finished
+2019-04-01 18:21:34,653 [agent2_wrapper] INFO: STARTING ROUND #17
+2019-04-01 18:21:34,670 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:34,674 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:34,775 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:34,778 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:34,880 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:34,884 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:34,985 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:34,989 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:35,090 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:35,093 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:21:35,192 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:35,195 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:21:35,292 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:35,296 [agent2_wrapper] INFO: Chose action DOWN after 0.003s of thinking
+2019-04-01 18:21:35,303 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:35,304 [agent2_wrapper] INFO: Round #17 finished
+2019-04-01 18:21:37,136 [agent2_wrapper] INFO: STARTING ROUND #18
+2019-04-01 18:21:37,154 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:37,158 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:37,259 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:37,262 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:37,363 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:37,367 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:37,468 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:37,473 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:37,573 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:37,577 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:37,677 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:37,681 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:37,782 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:37,786 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:37,792 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:37,792 [agent2_wrapper] INFO: Round #18 finished
+2019-04-01 18:21:40,018 [agent2_wrapper] INFO: STARTING ROUND #19
+2019-04-01 18:21:40,090 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:40,094 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:40,195 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:40,198 [agent2_wrapper] INFO: Chose action WAIT after 0.004s of thinking
+2019-04-01 18:21:40,394 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:40,400 [agent2_wrapper] INFO: Chose action WAIT after 0.005s of thinking
+2019-04-01 18:21:40,493 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:40,497 [agent2_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-04-01 18:21:40,596 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:40,600 [agent2_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-04-01 18:21:40,701 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:40,705 [agent2_wrapper] INFO: Chose action WAIT after 0.003s of thinking
+2019-04-01 18:21:40,803 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:40,807 [agent2_wrapper] INFO: Chose action WAIT after 0.004s of thinking
+2019-04-01 18:21:40,906 [agent2_wrapper] INFO: STARTING STEP 8
+2019-04-01 18:21:40,910 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:41,007 [agent2_wrapper] INFO: STARTING STEP 9
+2019-04-01 18:21:41,011 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:41,114 [agent2_wrapper] INFO: STARTING STEP 10
+2019-04-01 18:21:41,118 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:41,216 [agent2_wrapper] INFO: STARTING STEP 11
+2019-04-01 18:21:41,220 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:41,320 [agent2_wrapper] INFO: STARTING STEP 12
+2019-04-01 18:21:41,323 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:41,422 [agent2_wrapper] INFO: STARTING STEP 13
+2019-04-01 18:21:41,426 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:41,526 [agent2_wrapper] INFO: STARTING STEP 14
+2019-04-01 18:21:41,530 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:41,535 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:41,536 [agent2_wrapper] INFO: Round #19 finished
+2019-04-01 18:21:44,404 [agent2_wrapper] INFO: STARTING ROUND #20
+2019-04-01 18:21:44,435 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:44,439 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:44,539 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:44,542 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:44,643 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:44,649 [agent2_wrapper] INFO: Chose action BOMB after 0.006s of thinking
+2019-04-01 18:21:44,748 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:44,751 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:44,852 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:44,856 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:44,957 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:44,961 [agent2_wrapper] INFO: Chose action LEFT after 0.003s of thinking
+2019-04-01 18:21:45,059 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:45,065 [agent2_wrapper] INFO: Chose action LEFT after 0.004s of thinking
+2019-04-01 18:21:45,071 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:45,071 [agent2_wrapper] INFO: Round #20 finished
+2019-04-01 18:21:48,028 [agent2_wrapper] INFO: STARTING ROUND #21
+2019-04-01 18:21:48,073 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:48,077 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:48,177 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:48,181 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:48,281 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:48,286 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:48,383 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:48,389 [agent2_wrapper] INFO: Chose action BOMB after 0.005s of thinking
+2019-04-01 18:21:48,489 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:48,493 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:48,592 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:48,595 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:48,695 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:48,700 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:21:48,706 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:48,707 [agent2_wrapper] INFO: Round #21 finished
+2019-04-01 18:21:56,094 [agent2_wrapper] INFO: STARTING ROUND #22
+2019-04-01 18:21:56,173 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:56,176 [agent2_wrapper] INFO: Chose action UP after 0.003s of thinking
+2019-04-01 18:21:56,277 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:56,280 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:56,382 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:56,386 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:56,486 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:56,490 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:56,590 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:56,596 [agent2_wrapper] INFO: Chose action RIGHT after 0.006s of thinking
+2019-04-01 18:21:56,694 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:56,698 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:56,799 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:21:56,803 [agent2_wrapper] INFO: Chose action RIGHT after 0.004s of thinking
+2019-04-01 18:21:56,810 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:21:56,811 [agent2_wrapper] INFO: Round #22 finished
+2019-04-01 18:21:59,304 [agent2_wrapper] INFO: STARTING ROUND #23
+2019-04-01 18:21:59,399 [agent2_wrapper] INFO: STARTING STEP 1
+2019-04-01 18:21:59,403 [agent2_wrapper] INFO: Chose action RIGHT after 0.003s of thinking
+2019-04-01 18:21:59,503 [agent2_wrapper] INFO: STARTING STEP 2
+2019-04-01 18:21:59,507 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:59,608 [agent2_wrapper] INFO: STARTING STEP 3
+2019-04-01 18:21:59,613 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:59,714 [agent2_wrapper] INFO: STARTING STEP 4
+2019-04-01 18:21:59,720 [agent2_wrapper] INFO: Chose action BOMB after 0.003s of thinking
+2019-04-01 18:21:59,818 [agent2_wrapper] INFO: STARTING STEP 5
+2019-04-01 18:21:59,822 [agent2_wrapper] INFO: Chose action BOMB after 0.004s of thinking
+2019-04-01 18:21:59,923 [agent2_wrapper] INFO: STARTING STEP 6
+2019-04-01 18:21:59,927 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:22:00,027 [agent2_wrapper] INFO: STARTING STEP 7
+2019-04-01 18:22:00,031 [agent2_wrapper] INFO: Chose action UP after 0.004s of thinking
+2019-04-01 18:22:00,038 [agent2_wrapper] INFO: Received exit message for round
+2019-04-01 18:22:00,038 [agent2_wrapper] INFO: Round #23 finished
+2019-04-01 18:22:04,200 [agent2_wrapper] INFO: Received global exit message
+2019-04-01 18:22:04,200 [agent2_wrapper] INFO: SHUT DOWN
