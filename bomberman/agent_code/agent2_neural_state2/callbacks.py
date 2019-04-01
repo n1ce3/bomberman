@@ -119,22 +119,22 @@ def act(agent):
     # pass action to the game
     agent.next_action = agent.action
 
+    # save pos to know later where my own bomb has been droped
+    if (agent.action=='BOMB') & (agent.game_state['self'][3]==1):
+        pos = agent.game_state['self']
+        agent.bombPos = (pos[0],pos[1])
+        agent.timer = 0
+    else:
+        # count to know if bomb is exploded
+        agent.timer += 1
+        if agent.timer >= 5:
+            agent.bombPos = (0,0)
+
     # if training
     if agent.isTraining:
         # don't do this the first step since there is no previous state and no reward
         if agent.game_state['step'] > 1:
             agent.model.memory.addSample((agent.preState, agent.actions.index(agent.preAction), agent.reward, agent.state))
-
-        # save pos to know later where my own bomb has been droped
-        if (agent.action=='BOMB') & (agent.game_state['self'][3]==1):
-            pos = agent.game_state['self']
-            agent.bombPos = (pos[0],pos[1])
-            agent.timer = 0
-        else:
-            # count to know is bomb is exploded
-            agent.timer += 1
-            if agent.timer >= 5:
-                agent.bombPos = (0,0)
 
         # save for next step
         agent.preState  = agent.state
