@@ -26,11 +26,11 @@ class Model:
         self.minEpsilon = 0.01
         self.epsilon    = self.maxEpsilon
         # strength of exponential decay
-        self.decay      = 0.000025
+        self.decay      = 0.000032
         # discount
         self.gamma      = 0.95
         # learning rate
-        self.alpha      = 0.6
+        self.alpha      = 0.65
 
         # set memory
         self.batchSize  = 10
@@ -204,7 +204,7 @@ class Model:
         # print out how many batches have been trained.
         print(numBatches, ' batches trained')
 
-# handle memory 
+# handle memory
 class Memory:
     # this class handles just the samples in the memory
     def __init__(self, maxMemory):

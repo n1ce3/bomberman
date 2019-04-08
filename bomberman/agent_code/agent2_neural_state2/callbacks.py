@@ -32,7 +32,7 @@ def setup(agent):
 def setupModel(agent):
 
     # trainings flag
-    agent.isTraining  = False
+    agent.isTraining  = True
 
     # track training
     agent.testAfter   = 1000
@@ -79,22 +79,22 @@ def setupModel(agent):
                            'WAITED':              -1,
                            'INTERRUPTED':         -1,
                            'INVALID_ACTION':     -15,
-                           'BOMB_DROPPED':        -2,
+                           'BOMB_DROPPED':        -5,
                            'BOMB_EXPLODED':        0,
                            'CRATE_DESTROYED':     40,
                            'COIN_FOUND':           0,
                            'COIN_COLLECTED':     110,
-                           'KILLED_OPPONENT':    450,
-                           'KILLED_SELF':       -300,
-                           'GOT_KILLED':        -100,
-                           'OPPONENT_ELIMINATED':700,
-                           'SURVIVED_ROUND':     200}
+                           'KILLED_OPPONENT':    700,
+                           'KILLED_SELF':       -400,
+                           'GOT_KILLED':        -400,
+                           'OPPONENT_ELIMINATED':  0,
+                           'SURVIVED_ROUND':     400}
 
     # save training
     if agent.isTraining:
         # name of files
-        agent.fileName     = 'exp550Guided1.txt'
-        agent.testFileName = 'exp550GuidedTest1.txt'
+        agent.fileName     = 'exp32.txt'
+        agent.testFileName = 'exp32Test.txt'
         # create or overwrite existing files
         loadFile(agent)
         loadTestFile(agent)
@@ -429,7 +429,7 @@ def getCurrentState(agent):
             subOpp[x,y] = -1
             # delete from opp list since opponent is already considert in subOpp
             index = opp.index(opponent)
-            opponent.pop(index)
+            opp.pop(index)
     # add my position
     subOpp[3,3] = 1
 
@@ -457,7 +457,7 @@ def getCurrentState(agent):
     # find nearest opponent and distance
     directionOpp = getNearest(position, np.asarray(opp))
     # add to current state
-    currentState += directionCoin
+    currentState += directionOpp
 
 
     # consider nearest crate which is not in subarena
