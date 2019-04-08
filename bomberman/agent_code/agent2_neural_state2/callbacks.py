@@ -32,7 +32,7 @@ def setup(agent):
 def setupModel(agent):
 
     # trainings flag
-    agent.isTraining  = True
+    agent.isTraining  = False
 
     # track training
     agent.testAfter   = 1000

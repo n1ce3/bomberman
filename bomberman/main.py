@@ -41,8 +41,8 @@ def main():
 
     # Initialize environment and agents
     world = BombeRLeWorld([
-            ('agent1_neural_state1', False),
-            ('agent1_neural_state1', False),
+            ('agent2_neural_state2', False),
+            ('simple_agent', False),
             ('simple_agent', False),
             ('simple_agent', False)
         ])
